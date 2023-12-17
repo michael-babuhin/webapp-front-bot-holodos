@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-        <h2>Форма ввода информации для расчета показателей здоровья</h2>
+        <h2>Умный бот-холодильник</h2>
         <Header/>
         <Routes>
             <Route index element={<ProductList />}/>

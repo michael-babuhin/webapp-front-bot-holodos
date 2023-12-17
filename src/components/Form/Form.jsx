@@ -30,7 +30,7 @@ const Form = () => {
     }
     return (
         <div className={"form"}>
-            <h3>Введи ваши биометрические данные</h3>
+            <h3>Введите ваши биометрические данные</h3>
             <input
                 type="number"
                 className="personWeight"
